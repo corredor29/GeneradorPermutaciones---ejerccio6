@@ -1,0 +1,15 @@
+D:\Documentos\GenerarPermutaciones\bin\Debug\net10.0\GenerarPermutaciones.exe
+D:\Documentos\GenerarPermutaciones\bin\Debug\net10.0\GenerarPermutaciones.deps.json
+D:\Documentos\GenerarPermutaciones\bin\Debug\net10.0\GenerarPermutaciones.runtimeconfig.json
+D:\Documentos\GenerarPermutaciones\bin\Debug\net10.0\GenerarPermutaciones.dll
+D:\Documentos\GenerarPermutaciones\bin\Debug\net10.0\GenerarPermutaciones.pdb
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.AssemblyInfoInputs.cache
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.AssemblyInfo.cs
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.csproj.CoreCompileInputs.cache
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.sourcelink.json
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.dll
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\refint\GenerarPermutaciones.dll
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.pdb
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\GenerarPermutaciones.genruntimeconfig.cache
+D:\Documentos\GenerarPermutaciones\obj\Debug\net10.0\ref\GenerarPermutaciones.dll
